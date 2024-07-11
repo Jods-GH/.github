@@ -14,7 +14,7 @@ I'm Jods and have been a Gaming enthusiast for more then a decade. Currently I'm
 [//]: # (Links)
 
 [Discord]: https://discord.com/invite/v3gYmYamGJ (Join the Discord)
-[PayPal]: https://www.paypal.com/donate/?hosted_button_id=PSQ4D3HXNZKMG (Donate via PayPal)
+[PayPal]: https://ko-fi.com/jodsderechte (Donate via PayPal)
 [Wago]: https://wago.io/p/Jodsderechte (Check out my Weakauras)
 [Addons]: https://www.curseforge.com/members/jods/projects (Check out my Addons and Mods)
 
