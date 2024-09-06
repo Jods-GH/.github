@@ -7,7 +7,7 @@
 
 This is the Org i'm using to host my own Repositories.
 
-I'm Jods and have been a Gaming enthusiast for more then a decade. Currently I'm studying applied Informatics and doing WoW-Ui Stuff and Ark modding in my spare time. 
+I'm Jods and have been a Gaming enthusiast for more then a decade. Currently I'm getting my Master in Informatics and doing WoW-Ui Stuff and Ark modding in my spare time. 
 
 
 
